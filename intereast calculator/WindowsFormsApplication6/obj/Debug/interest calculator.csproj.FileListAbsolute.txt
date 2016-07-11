@@ -1,0 +1,9 @@
+C:\Users\farmerb01\Desktop\intereast calculator\WindowsFormsApplication6\bin\Debug\WindowsFormsApplication6.exe.config
+C:\Users\farmerb01\Desktop\intereast calculator\WindowsFormsApplication6\obj\Debug\WindowsFormsApplication6.exe
+C:\Users\farmerb01\Desktop\intereast calculator\WindowsFormsApplication6\obj\Debug\WindowsFormsApplication6.pdb
+C:\Users\farmerb01\Desktop\intereast calculator\WindowsFormsApplication6\bin\Debug\WindowsFormsApplication6.exe
+C:\Users\farmerb01\Desktop\intereast calculator\WindowsFormsApplication6\bin\Debug\WindowsFormsApplication6.pdb
+C:\Users\farmerb01\Desktop\intereast calculator\WindowsFormsApplication6\obj\Debug\interest calculator.csprojResolveAssemblyReference.cache
+C:\Users\farmerb01\Desktop\intereast calculator\WindowsFormsApplication6\obj\Debug\WindowsFormsApplication6.Form1.resources
+C:\Users\farmerb01\Desktop\intereast calculator\WindowsFormsApplication6\obj\Debug\WindowsFormsApplication6.Properties.Resources.resources
+C:\Users\farmerb01\Desktop\intereast calculator\WindowsFormsApplication6\obj\Debug\interest calculator.csproj.GenerateResource.Cache
